@@ -1,0 +1,64 @@
+/* Text Normal  */
+@font-face {
+  font-family: 'Verizon-NHG-eTX';
+  src: url('//scache1.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeTX-Regular.eot');
+  src: url('//scache1.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeTX-Regular.eot?#iefix') format('embedded-opentype'),
+    url("//scache1.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeTX-Regular.woff2") format("woff2"),
+    url("//scache1.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeTX-Regular.woff") format("woff"),
+    url("//scache1.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeTX-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Text Bold */
+@font-face {
+  font-family: 'Verizon-NHG-eTX';
+  src: url('//scache2.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeTX-Bold.eot');
+  src: url("//scache2.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeTX-Bold.eot?#iefix") format("embedded-opentype"),
+    url("//scache2.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeTX-Bold.woff2") format("woff2"),
+    url("//scache2.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeTX-Bold.woff") format("woff"),
+    url("//scache2.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeTX-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Display Light */
+@font-face {
+  font-family: 'Verizon-NHG-eDS';
+  src: url('https://scache1.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGDS-Light.eot');
+  src: url("https://scache1.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGDS-Light.eot?#iefix") format("embedded-opentype"),
+    url("https://scache1.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGDS-Light.woff2") format("woff2"),
+    url("https://scache1.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGDS-Light.woff") format("woff"),
+    url("https://scache1.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGDS-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Display Normal */
+@font-face {
+  font-family: 'Verizon-NHG-eDS';
+  src: url('https://scache1.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeDS-Regular.eot');
+  src: url("https://scache1.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeDS-Regular.eot?#iefix") format("embedded-opentype"),
+    url("https://scache1.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeDS-Regular.woff2") format("woff2"),
+    url("https://scache1.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeDS-Regular.woff") format("woff"),
+    url("https://scache1.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeDS-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Display Bold */
+@font-face {
+  font-family: 'Verizon-NHG-eDS';
+  src: url('https://scache2.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeDS-Bold.eot');
+  src: url("https://scache2.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeDS-Bold.eot?#iefix") format("embedded-opentype"),
+  url("https://scache2.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeDS-Bold.woff2") format("woff2"),
+  url("https://scache2.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeDS-Bold.woff") format("woff"),
+  url("https://scache2.vzw.com/globalnav/fonts/verizon-nhg/VerizonNHGeDS-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
